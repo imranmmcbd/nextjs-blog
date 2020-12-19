@@ -5,14 +5,10 @@ export default function FirstPost(){
     return (
         <Layout>
         <Head>
-        <title>First Post</title>
+        <title>About</title>
         </Head>
-        <h1>First Post</h1>
-        <h2>
-          <Link href="/">
-            <a>Back to home</a>
-          </Link>
-        </h2>
+        <h1>About</h1>
+
       </Layout>
         )
 }
